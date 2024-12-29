@@ -11,3 +11,5 @@ This study focuses on the resilient path planning of a data collection unmanned 
 - 主要参数1 --jammer_act store_true类型，添加该参数将会在训练过程中允许干扰机运动
 
 - 主要参数2 --train_model (m: MADDPG, a: AC-MADDPG, d: DC-MADDPG, adc: ADC-MADDPG)
+
+[PyTorch版本链接](https://gitee.com/bingzzzzz/adc-maddpg)
