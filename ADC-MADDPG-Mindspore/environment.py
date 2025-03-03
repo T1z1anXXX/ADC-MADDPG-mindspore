@@ -1,8 +1,3 @@
-# -*- codeing = utf-8 -*-
-# @Time : 2023/12/6 15:59
-# @Author : 曾炳智
-# @File : environment.py
-
 TIMESTAMP=0.05#时间步长
 TIME=0#时间步
 α=1.5#路径损耗指数
