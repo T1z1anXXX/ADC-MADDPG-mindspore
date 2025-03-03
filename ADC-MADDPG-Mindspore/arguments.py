@@ -1,7 +1,3 @@
-# Time: 2019-11-05
-# Author: Zachary 
-# Name: MADDPG_torch
-
 import time
 import torch
 import argparse
